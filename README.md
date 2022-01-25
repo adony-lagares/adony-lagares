@@ -5,8 +5,8 @@
 
 
 ##### NOW
-- ✨ Bootcamp Inter Frontend Developer on Digital Innovation One
-- 🇵🇹  Portuguese and English
+- ✨Bootcamp Inter Frontend Developer on Digital Innovation One
+- 🇵🇹 Portuguese and English
 - ✈️ Studying Businnes Intelligence
 
 ##### BIO
