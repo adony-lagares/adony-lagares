@@ -5,9 +5,9 @@
 
 
 ##### NOW
-- ✨Bootcamp Inter Frontend Developer on Digital Innovation One
+- ✨Bootcamp Generation Tech Unimed-BH on Digital Innovation One
 - 🇵🇹 Portuguese and English
-- ✈️ Studying Businnes Intelligence
+- ✈️ Studying Python, Data Science, Cloud Computer and Machine Learning
 
 ##### BIO
 
