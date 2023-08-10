@@ -5,7 +5,7 @@
 
 
 ##### NOW
-- ✨Bootcamp Generation Tech Unimed-BH on Digital Innovation One
+- ✨.NET and JavaScript dev.
 - 🇵🇹 Portuguese and English
 - ✈️ Studying Python, Data Science, Cloud Computer and Machine Learning
 
@@ -13,7 +13,6 @@
 
 - 🏢 I'm currently studying **Software Engineering** at Unicesumar.
 - 🌍 I'm mostly active within the **Reddit Community**
-- 💻 Create: @hypexstoreofficial [Hypex Store](https://www.hypexstore.com.br).
 - 🌱 Learning all about **Full Stack DEV**
 - ⚡️ Fun fact: I'm a huge fan of Attack on Titan, Hobbit, YuYu Hakushô and Spiderman.
 
