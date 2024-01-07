@@ -1,19 +1,18 @@
 "Your actions will always be more important than your words. Because love is what you do." - The Servant. 📚
 
 ## Hi there!  👋
-<h2>🌱 I am Ádony Lagares an beginner developer who is learning more and more about this digital world that I love. </h2>
+<h2>🌱 I am Ádony Lagares an fullstack junior developer who is learning more and more about this digital world that I love. </h2>
 
 
 ##### NOW
 - ✨.NET and JavaScript dev.
-- 🇵🇹 Portuguese and English
-- ✈️ Studying Python, Data Science, Cloud Computer and Machine Learning
+- 🇵🇹 Portuguese and English.
+- ✈️ Studying Cybersecurity, Azure DevOps and Machine Learning.
 
 ##### BIO
 
 - 🏢 I'm currently studying **Software Engineering** at Unicesumar.
 - 🌍 I'm mostly active within the **Reddit Community**
-- 🌱 Learning all about **Full Stack DEV**
 - ⚡️ Fun fact: I'm a huge fan of Attack on Titan, Hobbit, YuYu Hakushô and Spiderman.
 
 #### REACH ME
