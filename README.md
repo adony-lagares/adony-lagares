@@ -5,7 +5,6 @@
 <br>
 
 ## ⚡ Technologies
-Talk to me about
 - Front-end development using **HTML, CSS, Javascript and React**
 - Backend development using **ASP.NET Core, ASP.NET Framework**
 - Relational databases using **MySQL and SQL Server**
