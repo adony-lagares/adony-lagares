@@ -9,14 +9,23 @@ LIMS;
 💻 Desenvolvimento de Sistemas:
 
 .NET C#, ASP .NET Core, ASP .NET Framework, .NET MVC, .NET MUAI;
+<br>
 HTML, CSS, JavaScript, React;
+<br>
 SQL: MySQL and SQL Server;
+<br>
 NoSQL: MongoDB;
+<br>
 Docker;
+<br>
 Git e Gitlab;
+<br>
 Agile and Clean Code Methodology;
+<br>
 Cybersecurity;
+<br>
 Azure Cloud (Functions, Service Bus, Virtual Machine, API)
+<br>
 Unit Tests
 
 Languages: 
