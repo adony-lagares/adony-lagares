@@ -6,9 +6,9 @@ My experiences:
 MES;
 LIMS;
 
-💻 Desenvolvimento de Sistemas:
+💻 Systems Development:
 
-.NET C#, ASP .NET Core, ASP .NET Framework, .NET MVC, .NET MUAI;
+.NET C#, ASP .NET Core, ASP .NET Framework, .NET MVC, .NET MAUI;
 <br>
 HTML, CSS, JavaScript, React;
 <br>
