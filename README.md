@@ -1,22 +1,32 @@
+##Hello, corporate world! I'm Ádony, a Software Developer passionate about creating digital solutions that drive growth and innovation.  🌐💻
 
+My experiences:
 
-# Ádony Lagares 😃
-#### Hello world! I'm Ádony, a Junior Fullstack Developer passionate about creating digital solutions that drive growth and innovation. 🌐💻
-<br>
+🏭 Industrial Systems/ Automation:  
+MES;
+LIMS;
 
-## ⚡ Technologies
-- Front-end development using **HTML, CSS, Javascript and React**
-- Backend development using **ASP.NET Core, ASP.NET Framework**
-- Relational databases using **MySQL and SQL Server**
-- Non-relational using like **MongoDB**
-- Virtualization with **Docker**
-- Source Control using **GIT and GITLAB**
-- Agile Methodologies
-- Cybersecurity **Kali Linux, Shodan, FOCA, OsintFramework, Maltego**
-     
+💻 Desenvolvimento de Sistemas:
 
-<br>
-<br>
+.NET C#, ASP .NET Core, ASP .NET Framework, .NET MVC, .NET MUAI;
+HTML, CSS, JavaScript, React;
+SQL: MySQL and SQL Server;
+NoSQL: MongoDB;
+Docker;
+Git e Gitlab;
+Agile and Clean Code Methodology;
+Cybersecurity;
+Azure Cloud (Functions, Service Bus, Virtual Machine, API)
+Unit Tests
+
+Languages: 
+
+English: B2 | Spanish: A2.
+
+Impact Projects 💡:
+
+- Pipe History: Tracking system of the production of steel pipes in the company Vallourec Soluções Tubulares. Used .NET C# in the Backend and HTML5, CSS3 and React in the Frontend.
+
 
 <div align="center">
   <a href="https://github.com/adony-lagares">
