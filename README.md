@@ -1,4 +1,4 @@
-##Hello, corporate world! I'm Ádony, a Software Developer passionate about creating digital solutions that drive growth and innovation.  🌐💻
+## Hello, corporate world! I'm Ádony, a Software Developer passionate about creating digital solutions that drive growth and innovation.  🌐💻
 
 My experiences:
 
