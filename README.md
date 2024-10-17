@@ -6,35 +6,7 @@ My experiences:
 MES;
 LIMS;
 
-💻 Systems Development:
-
-.NET C#, ASP .NET Core, ASP .NET Framework, .NET MVC, .NET MAUI;
-<br>
-HTML, CSS, JavaScript, React;
-<br>
-SQL: MySQL and SQL Server;
-<br>
-NoSQL: MongoDB;
-<br>
-Docker;
-<br>
-Git e Gitlab;
-<br>
-Agile and Clean Code Methodology;
-<br>
-Cybersecurity;
-<br>
-Azure Cloud (Functions, Service Bus, Virtual Machine, API)
-<br>
-Unit Tests
-
-Languages: 
-
-English: B2 | Spanish: A2.
-
-Impact Projects 💡:
-
-- Pipe History: Tracking system of the production of steel pipes in the company Vallourec Soluções Tubulares. Used .NET C# in the Backend and HTML5, CSS3 and React in the Frontend.
+Full Stack Developer with approximately 2 years of experience in developing technological solutions focused on meeting customer needs, with a strong emphasis on information security, systems modernization, and process automation. Currently in the third year of a Software Engineering degree, with certifications in cybersecurity and experience in project leadership and team training. Able to apply agile methodologies to consistently deliver results, improving organizational efficiency and the quality of delivered products.
 
 
 <div align="center">
