@@ -1,98 +1,84 @@
 <h1 align="center">Ádony Lagares</h1>
-<h3 align="center">🦇 Full Stack Developer</h3>
+<h3 align="center">Software Engineer | Full-Stack .NET & Cloud Applications</h3>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3FlN2V0eDhmZWJmbTdpcnh2YXllaTI5ZHZqNmtmaGljd215NXV5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l396BoOTIFem9xqQU/giphy.gif" height="200"/>
+  <a href="https://www.linkedin.com/in/adony-lagares/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:adonyhibari48@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white">
+  </a>
 </p>
 
 ---
 
-## 🧬 Sobre Mim
+## 🧬 Professional Profile
 
-> “Os bugs tem medo da escuridão. Eu não.”
+I am a **Software Engineer** specializing in the Microsoft ecosystem (.NET Core / C#) and modern frontend architectures (React / Next.js / TypeScript). My expertise focuses on building secure, highly scalable, and distributed web applications, leveraging modern cloud capabilities (Azure/AWS), and implementing robust automated quality gates directly into the CI/CD lifecycle.
 
-- Desenvolvedor Full Stack com 3 anos de experiência real de campo
-- Foco em: **Segurança**, **Automação**, **Refatoração** e **Arquitetura Limpa**
-- Estudante do último ano de **Engenharia de Software**
-- Experiência com **CI/CD**, **Testes Automatizados**, **Cloud**, **Microserviços**
+*   **Cloud & Architecture:** Clean Architecture, Domain-Driven Design (DDD), Microservices, Messaging (RabbitMQ/Azure Service Bus).
+*   **Multi-Cloud Awareness:** Certified in AWS foundational infrastructure, with proven practical experience architecture-wise in Azure environments.
+*   **Quality & Automation:** Shift-Left testing mindset, Automated API validation, and full CI/CD pipeline implementation.
+*   **AI Integration:** Engineering systems with LLM integration, fine-tuning workflows, and cognitive service consumption.
 
 ---
 
-## 🛠️ Meu Arsenal
+## 🛠️ Technical Stack & Arsenal
 
-### 🔧 Back-End
+### 🔧 Back-End & Devops
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 ### 🧠 Front-End
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🗃️ Banco de Dados
+### 🗃️ Databases
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![CosmosDB](https://img.shields.io/badge/CosmosDB-0078D4?style=for-the-badge&logo=azurecosmosdb&logoColor=white)
-
-### ☁️ Cloud & DevOps
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure Functions](https://img.shields.io/badge/Azure%20Functions-0062AD?style=for-the-badge&logo=azurefunctions&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
-## 🔥 Projetos
+## 🔥 Featured Production Projects
 
-### 🦇 Sistema de Rastreamento – Vallourec
-- Full Stack com .NET, React e MongoDB  
-- Logs estruturados com Serilog  
-- Redução de 80% no suporte técnico  
+### 📡 Industrial-Sync v2.0 (Telemetry & Predictive Maintenance)
+*An enterprise-grade real-time monitoring dashboard designed for industrial assets.*
+*   **Backend:** Built with .NET 8 following **Clean Architecture** and **DDD** principles.
+*   **Infrastructure:** Asynchronous message processing via **Azure Service Bus Workers** to guarantee scalability and handle traffic spikes.
+*   **Real-time & Frontend:** Developed with React and TypeScript, leveraging **SignalR** (WebSockets) for zero-latency telemetry data streaming.
+*   **Quality:** 80%+ unit testing coverage using xUnit and integration testing gates.
 
----
+### 📑 AI Document Processor (Insurance Sector)
+*Automated parsing pipeline engineered to optimize operational efficiency for large-scale insurance systems.*
+*   **Core Engine:** Advanced orchestration integrating specialized LLM architectures and fine-tuning mechanics.
+*   **Impact:** Converts unstructured complex documents into clean, type-safe JSON schema with maximum accuracy, replacing manual inspection workflows.
 
-### 🕶️ Automação de Fluxo MES + SAP
-- Scripts inteligentes eliminando 30% de trabalho manual  
-- Integração direta entre sistemas legados e modernos
-
----
-
-## 📜 Certificações
-- 🛡️ **Cibersegurança** – Google  
-- 🕵️ **Resposta a Incidentes e Forense** – Escola Superior de Redes  
-- 💻 **Back-End Developer** – Santander Bootcamp  
-- 🌐 **CCNA** – Cisco Academy  
+### 🏭 Manufacturing Traceability & Automation (Industrial MES + SAP)
+*High-criticality telemetry system deployed to monitor and map industrial tube manufacturing lifecycles.*
+*   **Impact:** Built cross-border data synchronization layers that successfully **reduced specialized technical support tickets by 80%** and automated away **30% of repetitive operational tasks**.
 
 ---
 
-## 🧪 Testes e Qualidade
-- Robot Framework | Postman | Insomnia  
-- Validação de APIs com scripts de verificação  
-- Testes automatizados com CI no GitHub e Azure DevOps
+## 📜 Verified Credentials & Certifications
+
+*   🎓 **Bachelor of Software Engineering** – Unicesumar
+*   ☁️ **AWS Certified Cloud Practitioner** – Amazon Web Services
+*   🛡️ **Incident Response and Forensics** – ESR
+*   🌐 **CCNA (Routing and Switching)** – Cisco Networking Academy
+*   🔒 **Endpoint & Cybersecurity Specializations** – Cisco / Google
 
 ---
 
-## 📊 Bat-Dashboard
+## 📊 Git Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adony-lagares&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adony-lagares&layout=compact&langs_count=7&theme=dark" height="180"/>
-</p>
-
----
-
-## 📫 Contato via Bat-Sinal
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjlrd2VwZmlqa3d2b3pqNWk0bjZ2ajNkYWJveDhpcTBlaTdhemw4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8uEN3vEZKibcjQwrJT/giphy.gif"/>
-</p>
-<p>
-  <a href="mailto:adonyhibari48@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/adony-lagares/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
 </p>
