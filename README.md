@@ -76,9 +76,8 @@ I am a **Software Engineer** specializing in the Microsoft ecosystem (.NET Core 
 
 ---
 
-## 📊 Git Analytics
+## 📊 Core Engineering Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adony-lagares&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adony-lagares&layout=compact&langs_count=7&theme=dark" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adony-lagares&layout=compact&langs_count=5&theme=dark&hide=html,css,javascript,jupyter%20notebook&title_color=ffffff&text_color=c9d1d9&bg_color=0d1117&hide_border=true" height="180" alt="Top Languages"/>
 </p>
